@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.quiz.localizationlibrary" >
+
+    <application>
+        <activity
+            android:name=".ui.BlankDummyActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
+    </application>
+</manifest>
